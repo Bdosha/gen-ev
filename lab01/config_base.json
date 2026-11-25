@@ -1,0 +1,13 @@
+{
+  "name": "pop40",
+  "dimension": 5,
+  "low": -5.0,
+  "high": 5.0,
+  "pop_size": 40,
+  "eval_budget": 6000,
+  "tournament_size": 3,
+  "crossover_prob": 0.9,
+  "mutation_prob": 0.2,
+  "mutation_coef": 0.1,
+  "seeds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+}
